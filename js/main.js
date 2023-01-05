@@ -6,7 +6,7 @@ let elNextBtn = document.querySelector(".js-next-btn");
 
 // let newArr = [];
 
-let activePage = 36;
+let activePage = 1;
 
 const render = (array, node) => {
   node.innerHTML = "";
